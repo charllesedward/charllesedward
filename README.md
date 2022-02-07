@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Carlos Eduardo
 
 - 🥷 Hoje eu trabalho com front-end
-- 🌱 Estudando data science, machine learning, big data e inteliencia artificial
+- 🌱 Estudando Big Data e Inteligência Analítica
 - 📪 contate-me no email: carlosficandorico@protonmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/charllesedward">
